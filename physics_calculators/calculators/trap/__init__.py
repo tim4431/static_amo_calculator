@@ -1,0 +1,2 @@
+"""Gaussian trap calculator."""
+
